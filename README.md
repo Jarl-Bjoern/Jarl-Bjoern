@@ -32,7 +32,7 @@ I'm working as a Penetration Tester and like to code with python.
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/AlmaLinux.svg" width="60">
-  <img src="https://jacobriggs.io/tools/app/web/upload/large/3_eedab2dbcde47a63f847af0a612d1f8d.png" width="120">
+  <img src="https://www.wst.space/wp-content/uploads/2018/08/output-onlinepngtools.png" width="120">
   <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/centos.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="120">
   <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/debian.svg" width="60">
