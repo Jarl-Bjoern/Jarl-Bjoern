@@ -29,6 +29,7 @@
 <a href="https://github.com/Jarl-Bjoern?tab=followers">
     <img src="https://img.shields.io/github/followers/Jarl-Bjoern?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
 </a>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=Black&right_color=Grey)
 
 <!--
