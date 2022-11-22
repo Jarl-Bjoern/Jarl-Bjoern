@@ -5,7 +5,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Jarl-Bjoern?color=8DEEEE&labelColor=4D4D4D&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Jarl-Bjoern&color=8DEEEE&style=for-the-badge&fontColor=black">
 </p>
-<br><img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=300><br>
+<br><img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=300>
 
 ## About me
 I'm working as a Penetration Tester and like to code with python.
