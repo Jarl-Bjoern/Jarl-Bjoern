@@ -34,6 +34,7 @@ I'm working as a Penetration Tester and like to code with python.
   <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg" width="160">
   <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/AlmaLinux.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="60">
   <img src="https://i.pinimg.com/474x/3c/22/20/3c222092882bee7ef18fa5be84ef2e1b--linux-open-source.jpg" width="60">
   <img src="https://www.wst.space/wp-content/uploads/2018/08/output-onlinepngtools.png" width="120">
   <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/centos.svg" width="60">
@@ -52,7 +53,8 @@ I'm working as a Penetration Tester and like to code with python.
   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" width="160">
   <img src="https://www.vectorlogo.zone/logos/suse/suse-ar21.svg" width="160">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="60">
 </p>
 
 ## Current projects
