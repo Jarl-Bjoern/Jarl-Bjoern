@@ -22,6 +22,7 @@ I'm working as a Penetration Tester and like to code with python.
   <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="150">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">
+  <img src="https://raw.githubusercontent.com/xtoolkit/Micon/master/icons/webbrand/windows.svg" width="60">
   
 <!--
   <a href="https://github.com/harish-sethuraman/readme-components">
