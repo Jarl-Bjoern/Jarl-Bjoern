@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/debian.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg" width="160">
   <img src="https://greenbone.github.io/docs/latest/_static/logo.svg" width="60">
-  <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" width="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="80">
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="60">
   <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/microsoft-sql-server.svg" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Logo_MySQL.svg/1280px-Logo_MySQL.svg.png" width="80">
