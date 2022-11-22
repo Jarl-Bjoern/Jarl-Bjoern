@@ -8,8 +8,8 @@
 <br><img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=300>
 
 ## About me
-- 💻 I work as a Penetration Tester
-- 💡 I like to code with Python
+- 💻 I work as a *Penetration Tester*
+- 💡 I like to code with *Python*
 - 📖 I’m currently learning *Rust*
   
 ## Things I use on a daily basis
