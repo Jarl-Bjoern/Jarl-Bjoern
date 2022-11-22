@@ -30,7 +30,7 @@ I'm working as a Penetration Tester and like to code with python.
     <img src="https://img.shields.io/github/followers/Jarl-Bjoern?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
 </a>
 
-![followers](https://visitor-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=Grey&right_color=Red)
+![followers](https://follower-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=Grey&right_color=Red)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=Grey&right_color=Red)
 
 <!--
