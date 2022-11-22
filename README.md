@@ -14,8 +14,10 @@ I'm working as a Penetration Tester and like to code with python.
   
 ## Things I use on a daily basis
 <p align="left">
+  
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60">
+  <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" width="60">
   <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="120">
