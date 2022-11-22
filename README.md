@@ -43,7 +43,7 @@ I'm working as a Penetration Tester and like to code with python.
   <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" width="80">
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="60">
   <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/microsoft-sql-server.svg" width="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nessus-Professional-FullColor-RGB.svg/768px-Nessus-Professional-FullColor-RGB.svg.png" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nessus-Professional-FullColor-RGB.svg/768px-Nessus-Professional-FullColor-RGB.svg.png" width="160">
   <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nmap.svg" width="60">
   <img src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Proxmox-VE-logo.svg" width="160">
