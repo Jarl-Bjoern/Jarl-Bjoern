@@ -44,6 +44,7 @@ I'm working as a Penetration Tester and like to code with python.
   <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Proxmox-VE-logo.svg" width="160">
   <img src="https://vectorwiki.com/images/6V0CU__rocky-linux-wordmark.svg" width="160">
   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" width="160">
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">  
 </p>
 
