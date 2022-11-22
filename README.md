@@ -16,7 +16,7 @@ I'm working as a Penetration Tester and like to code with python.
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="120">
   
 <!--
   <a href="https://github.com/harish-sethuraman/readme-components">
