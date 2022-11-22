@@ -1,8 +1,8 @@
 ### Welcome to my profile!👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=Black&right_color=Grey)
-<br />
+</br>
 <img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=250>
-
+<br>
 Contributing on: <a href="https://github.com/Jarl-Bjoern?tab=followers">
     <img src="https://img.shields.io/github/followers/Jarl-Bjoern?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
   </a>
