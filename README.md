@@ -1,7 +1,7 @@
 ### Welcome to my profile!👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=Black&right_color=Grey)
 <br />
-<img src="https://media.tenor.com/vFmKO6DdJ4cAAAAd/ragnar-giff.gif">
+<img src="https://media.tenor.com/vFmKO6DdJ4cAAAAd/ragnar-giff.gif" width=300>
 
 ## Things I use on a daily basis
 <p align="left">
