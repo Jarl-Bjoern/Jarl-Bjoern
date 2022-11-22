@@ -33,8 +33,8 @@ I'm working as a Penetration Tester and like to code with python.
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
 
 ## Statistics
-![Jarl-Bjoern's stats](https://github-readme-stats.vercel.app/api?username=Jarl-Bjoern&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarl-Bjoern&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Jarl-Bjoern's stats](https://github-readme-stats.vercel.app/api?username=Jarl-Bjoern&hide=issues&show_icons=true&theme=dark&bg_color=0A0A0A)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarl-Bjoern&layout=compact&theme=dark&bg_color=0A0A0A)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <a href="https://github.com/Jarl-Bjoern?tab=followers">
     <img src="https://img.shields.io/github/followers/Jarl-Bjoern?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
