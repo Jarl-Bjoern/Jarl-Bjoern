@@ -31,10 +31,17 @@ I'm working as a Penetration Tester and like to code with python.
   </a>
 </p>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/AlmaLinux.svg" width="160">
+  <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/centos.svg" width="160">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="120">
   <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" width="80">
-  <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nmap.svg" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="60">
+  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/microsoft-sql-server.svg" width="60">
+  <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nessus.svg" width="60">
+  <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nmap.svg" width="60">
+  <img src=" https://vectorwiki.com/images/6V0CU__rocky-linux-wordmark.svg" width="160">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">  
 </p>
 
 ## Current projects
