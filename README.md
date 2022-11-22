@@ -1,8 +1,6 @@
 ### Welcome to my profile!👋
 
-<p align="left">
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=Black&right_color=Grey)
-</p>
 
 ## Things I use on a daily basis
 <p align="left">
