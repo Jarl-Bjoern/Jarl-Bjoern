@@ -45,7 +45,7 @@ I'm working as a Penetration Tester and like to code with python.
   <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/microsoft-sql-server.svg" width="60">
   <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nessus.svg" width="60">
   <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nmap.svg" width="60">
-  <img src="https://cylab.be/storage/blog/205/files/ZyBJGF6lu6YnQ0XM/parrot_logo2.png" width="160">
+  <img src="https://cylab.be/storage/blog/205/files/ZyBJGF6lu6YnQ0XM/parrot_logo2.png" width="120">
   <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Proxmox-VE-logo.svg" width="160">
   <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="60">
   <img src="https://vectorwiki.com/images/6V0CU__rocky-linux-wordmark.svg" width="160">
