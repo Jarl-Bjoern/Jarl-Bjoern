@@ -1,7 +1,7 @@
 ### Welcome to my profile!👋
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=Black&right_color=red)
 <!--
 
 Here are some ideas to get you started:
