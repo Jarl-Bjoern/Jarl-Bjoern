@@ -26,10 +26,12 @@ I'm working as a Penetration Tester and like to code with python.
   </a>
 </p>
 
+<!--
 ## Statistics
 <a href="https://github.com/Jarl-Bjoern?tab=followers">
     <img src="https://img.shields.io/github/followers/Jarl-Bjoern?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
 </a>
+-->
 
 <!--
 
