@@ -8,10 +8,13 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=windows">
 </a>
 </p>
 
