@@ -2,12 +2,8 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=Grey&right_color=Green)
 <br><img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=300><br>
 
-
 ## About me
 I'm working as a Penetration Tester and like to code with python.
-
-## Current projects
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
 
 ## Things I use on a daily basis
 <p align="left">
@@ -28,6 +24,8 @@ I'm working as a Penetration Tester and like to code with python.
   </a>
 </p>
 
+## Current projects
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
 
 ## Statistics
 ![Jarl-Bjoern's stats](https://github-readme-stats.vercel.app/api?username=Jarl-Bjoern&hide=issues&show_icons=true&theme=gotham)
