@@ -28,7 +28,7 @@ I'm working as a Penetration Tester and like to code with python.
 
 
 ## Statistics
-![Jarl-Bjoern's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jarl-Bjoern&hide=issues&show_icons=true&theme=gotham)
+![Jarl-Bjoern's stats](https://github-readme-stats.vercel.app/api?username=Jarl-Bjoern&hide=issues&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarl-Bjoern&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <a href="https://github.com/Jarl-Bjoern?tab=followers">
