@@ -47,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/microsoft-sql-server.svg" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Logo_MySQL.svg/1280px-Logo_MySQL.svg.png" width="80">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nessus-Professional-FullColor-RGB.svg/768px-Nessus-Professional-FullColor-RGB.svg.png" width="160">
-  <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nmap.svg" width="60">
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="60">
   <img src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Proxmox-VE-logo.svg" width="160">
   <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="60">
