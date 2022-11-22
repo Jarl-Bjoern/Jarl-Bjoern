@@ -32,6 +32,7 @@ I'm working as a Penetration Tester and like to code with python.
 </p>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-ar21.svg" width="160">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Atlassian-logo.svg/1280px-Atlassian-logo.svg.png" width="160">
   <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/AlmaLinux.svg" width="60">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="120">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="60">
