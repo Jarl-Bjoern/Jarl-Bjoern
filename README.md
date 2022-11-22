@@ -3,6 +3,10 @@
 <br />
 <img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=250>
 
+Contributing on: <a href="https://github.com/Jarl-Bjoern?tab=followers">
+    <img src="https://img.shields.io/github/followers/Jarl-Bjoern?tab=followers?label=blue&logo=github&style=for-the-badge" alt="GitHub badge" />
+  </a>
+
 <!--
 <img src="https://media.tenor.com/vFmKO6DdJ4cAAAAd/ragnar-giff.gif" width=250>
 -->
