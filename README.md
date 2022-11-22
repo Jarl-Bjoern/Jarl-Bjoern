@@ -5,6 +5,7 @@
   <a href="https://github.com/Jarl-Bjoern?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Jarl-Bjoern"/></a><a href="https://github.com/Jarl-Bjoern?tab=followers"><a href="https://github.com/Jarl-Bjoern?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Jarl-Bjoern?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Jarl-Bjoern&color=0E9C47&style=for-the-badge">
 </p>
 <br><img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=300><br>
 
