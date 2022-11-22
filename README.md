@@ -1,6 +1,4 @@
 ## Welcome to my profile! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Jarl-Bjoern&left_color=Grey&right_color=Green)
-
 <p align="left">
   <a href="https://github.com/Jarl-Bjoern?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Jarl-Bjoern"/></a><a href="https://github.com/Jarl-Bjoern?tab=followers"><a href="https://github.com/Jarl-Bjoern?tab=followers">
