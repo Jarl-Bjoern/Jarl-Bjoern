@@ -52,6 +52,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Proxmox-VE-logo.svg" width="160">
   <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="60">
   <img src="https://vectorwiki.com/images/6V0CU__rocky-linux-wordmark.svg" width="160">
+  <img src="https://cdn-icons-png.flaticon.com/512/5261/5261911.png" width="60">
   <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" width="160">
   <img src="https://www.vectorlogo.zone/logos/suse/suse-ar21.svg" width="160">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="60">
