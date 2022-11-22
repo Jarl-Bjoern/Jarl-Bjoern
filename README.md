@@ -40,7 +40,7 @@ I'm working as a Penetration Tester and like to code with python.
   <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/microsoft-sql-server.svg" width="60">
   <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nessus.svg" width="60">
   <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Nmap.svg" width="60">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Proxmox-VE-logo.svg" width="60">
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Proxmox-VE-logo.svg" width="160">
   <img src="https://vectorwiki.com/images/6V0CU__rocky-linux-wordmark.svg" width="160">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">  
 </p>
