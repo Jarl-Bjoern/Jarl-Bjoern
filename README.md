@@ -3,7 +3,7 @@
 
 I'm working as a Penetration Tester and like to code with python.
 
-## Currently working on
+## Current projects
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
 
 ## Things I use on a daily basis
