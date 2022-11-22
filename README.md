@@ -10,6 +10,8 @@
 ## About me
 I'm working as a Penetration Tester and like to code with python.
 
+- 🌱 I’m currently learning : Rust
+  
 ## Things I use on a daily basis
 <p align="left">
   <a href="https://github.com/harish-sethuraman/readme-components">
