@@ -1,6 +1,9 @@
 ## Welcome to my profile! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 <img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=300>
 
+##
+I'm working as a Penetration Tester and like to code with python.
+
 ## Currently working on
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
 
