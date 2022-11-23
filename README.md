@@ -58,6 +58,7 @@
   <img src="https://www.vectorlogo.zone/logos/suse/suse-ar21.svg" width="160">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" width="60">
+  <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" width="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="60">
 </p>
