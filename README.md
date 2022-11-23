@@ -12,7 +12,10 @@
 - 💻 I'm working as a *Penetration Tester*
 - 💡 I like to code with *Python*
 - 📖 I’m currently learning *Rust*
-  
+
+## Current projects
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
+
 ## Things I use on a daily basis
 <p align="center">
   <a href="https://github.com/harish-sethuraman/readme-components">
@@ -64,9 +67,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="60">
 </p>
-
-## Current projects
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
 
 ## Statistics
 ![Jarl-Bjoern's stats](https://github-readme-stats.vercel.app/api?username=Jarl-Bjoern&hide=issues&show_icons=true&theme=dark&bg_color=0A0A0A)
