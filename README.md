@@ -17,6 +17,7 @@
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/tyr&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/tyr)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/skadi&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/skadi)
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/einherjer&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/einherjer)
 
 ## Things I use on a daily basis
 <p align="center">
