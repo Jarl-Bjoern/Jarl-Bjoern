@@ -9,11 +9,11 @@
 <br><img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=300>
 
 ## About me
-- <h2>💻 I'm working as a *Penetration Tester*</h2>
+- <h3>💻 I'm working as a *Penetration Tester*</h3>
 <br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=500>
-- <h2>💡 I like to code with *Python*</h2>
+- <h3>💡 I like to code with *Python*</h3>
 <br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hello-world.gif" width=500>
-- <h2>📖 I’m currently learning *Rust*</h2>
+- <h3>📖 I’m currently learning *Rust*</h3>
 <br><img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width=500>
 
 
