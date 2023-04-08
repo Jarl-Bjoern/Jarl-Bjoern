@@ -10,9 +10,10 @@
 
 ## About me
 - 💻 I'm working as a *Penetration Tester*
-<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=500>
 - 💡 I like to code with *Python*
 - 📖 I’m currently learning *Rust*
+
+<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=500><br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=500>
 
 ## Current projects
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
