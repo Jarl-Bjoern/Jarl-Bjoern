@@ -10,11 +10,11 @@
 
 ## About me
 - 💻 I'm working as a *Penetration Tester*
-<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=400>
+<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=300>
 - 💡 I like to code with *Python*
-<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hello-world.gif" width=400>
+<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hello-world.gif" width=300>
 - 📖 I’m currently learning *Rust*
-<br><img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width=400>
+<br><img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width=300>
 
 
 ## Current projects
