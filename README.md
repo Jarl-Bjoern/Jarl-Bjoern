@@ -14,6 +14,7 @@
 - 💡 I like to code with *Python*
 <br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hello-world.gif" width=500>
 - 📖 I’m currently learning *Rust*
+<br><img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width=500>
 
 
 ## Current projects
