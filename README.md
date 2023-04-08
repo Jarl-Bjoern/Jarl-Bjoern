@@ -12,6 +12,7 @@
 - 💻 I'm working as a *Penetration Tester*
 <br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=500>
 - 💡 I like to code with *Python*
+<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/code-coding.gif" width=500>
 - 📖 I’m currently learning *Rust*
 
 ## Current projects
