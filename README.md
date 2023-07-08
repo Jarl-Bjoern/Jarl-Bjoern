@@ -62,8 +62,8 @@
     <a href="https://blackarch.org/">
         <img src="https://i.pinimg.com/474x/3c/22/20/3c222092882bee7ef18fa5be84ef2e1b--linux-open-source.jpg" width="60">
     </a>
-    <a href="">
-        <img src="https://www.wst.space/wp-content/uploads/2018/08/output-onlinepngtools.png" width="120">
+    <a href="https://www.hackthebox.com/">
+        <img src="https://ctftime.org/media/team/Cube-Icon_RGB_1024.png" width="120">
     </a>
     <a href="https://www.centos.org/">
         <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/centos.svg" width="60">
