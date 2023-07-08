@@ -59,32 +59,84 @@
     <a href="https://www.exploit-db.com/">
         <img src="https://gitlab.com/uploads/-/system/project/avatar/11903608/kali-exploitdb.png" width="60">
     </a>
-    <img src="https://i.pinimg.com/474x/3c/22/20/3c222092882bee7ef18fa5be84ef2e1b--linux-open-source.jpg" width="60">
-    <img src="https://www.wst.space/wp-content/uploads/2018/08/output-onlinepngtools.png" width="120">
-    <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/centos.svg" width="60">
-    <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/debian.svg" width="60">
-    <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg" width="160">
-    <img src="https://greenbone.github.io/docs/latest/_static/logo.svg" width="60">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="80">
-    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="60">
-    <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/microsoft-sql-server.svg" width="60">
-    <img src="https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Logo_MySQL.svg/1280px-Logo_MySQL.svg.png" width="80">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nessus-Professional-FullColor-RGB.svg/768px-Nessus-Professional-FullColor-RGB.svg.png" width="160">
-    <img src="https://nmap.org/images/nmap-logo-256x256.png" width="60">
-    <img src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" width="60">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Proxmox-VE-logo.svg" width="160">
-    <img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/1200px-Raspberry_Pi_Logo.svg.png" width="60">
-    <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="60">
-    <img src="https://vectorwiki.com/images/6V0CU__rocky-linux-wordmark.svg" width="160">
-    <img src="https://cdn-icons-png.flaticon.com/512/5261/5261911.png" width="60">
-    <img src="https://res.cloudinary.com/snyk/image/upload/v1537345897/press-kit/brand/logo-vertical-black.png" width="90">   
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" width="160">
-    <img src="https://www.vectorlogo.zone/logos/suse/suse-ar21.svg" width="160">
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="60">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" width="60">
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" width="60">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="60">
+    <a href="https://blackarch.org/">
+        <img src="https://i.pinimg.com/474x/3c/22/20/3c222092882bee7ef18fa5be84ef2e1b--linux-open-source.jpg" width="60">
+    </a>
+    <a href="">
+        <img src="https://www.wst.space/wp-content/uploads/2018/08/output-onlinepngtools.png" width="120">
+    </a>
+    <a href="https://www.centos.org/">
+        <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/centos.svg" width="60">
+    </a>
+    <a href="https://www.debian.org/index.html">
+        <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/debian.svg" width="60">
+    </a>
+    <a href="https://fedoraproject.org/en/">
+        <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg" width="160">
+    </a>
+    <a href="https://www.greenbone.net/">
+        <img src="https://greenbone.github.io/docs/latest/_static/logo.svg" width="60">
+    </a>
+    <a href="https://www.kali.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="80">
+    </a>
+    <a href="https://www.metasploit.com/">
+        <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="60">
+    </a>
+    <a href="https://www.microsoft.com/en/sql-server">
+        <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/microsoft-sql-server.svg" width="60">
+    </a>
+    <a href="https://www.mysql.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Logo_MySQL.svg/1280px-Logo_MySQL.svg.png" width="80">
+    </a>
+    <a href="https://www.tenable.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nessus-Professional-FullColor-RGB.svg/768px-Nessus-Professional-FullColor-RGB.svg.png" width="160">
+    </a>
+    <a href="https://nmap.org/">
+        <img src="https://nmap.org/images/nmap-logo-256x256.png" width="60">
+    </a>
+    <a href="https://www.parrotsec.org/">
+        <img src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" width="60">
+    </a>
+    <a href="https://www.proxmox.com/en">
+        <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Proxmox-VE-logo.svg" width="160">
+    </a>
+    <a href="https://www.raspberrypi.com/software/">
+        <img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/1200px-Raspberry_Pi_Logo.svg.png" width="60">
+    </a>
+    <a href="https://www.redhat.com/en">
+        <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="60">
+    </a>
+    <a href="https://rockylinux.org/">
+        <img src="https://vectorwiki.com/images/6V0CU__rocky-linux-wordmark.svg" width="160">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Secure_Shell">
+        <img src="https://cdn-icons-png.flaticon.com/512/5261/5261911.png" width="60">
+    </a>
+    <a href="https://snyk.io/en/">
+        <img src="https://res.cloudinary.com/snyk/image/upload/v1537345897/press-kit/brand/logo-vertical-black.png" width="90">
+    </a>
+    <a href="https://stackoverflow.com/">
+        <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-official.svg" width="160">
+    </a>
+    <a href="https://www.suse.com/">
+        <img src="https://www.vectorlogo.zone/logos/suse/suse-ar21.svg" width="160">
+    </a>
+    <a href="https://ubuntu.com/">
+        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="60">
+    </a>
+    <a href="https://visualstudio.microsoft.com/de/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" width="60">
+    </a>
+    <a href="https://code.visualstudio.com/">
+        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" width="60">
+    </a>
+    <a href="https://www.vmware.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">
+    </a>
+    <a href="https://www.microsoft.com/en/microsoft-365/word?activetab=tabs%3Afaqheaderregion3&market=af">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="60">
+    </a>
 </p>
 
 ## Statistics
