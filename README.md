@@ -6,7 +6,7 @@
 -->
     <img src="https://komarev.com/ghpvc/?username=Jarl-Bjoern&color=000000&style=for-the-badge">
 </p>
-<br><!--<img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=300> -->
+<!--<br><img src="https://media.tenor.com/wa6oTC6T3EAAAAAC/ragnarskol.gif" width=300> -->
 
 ## About me
 - 💻 I'm working as a *Penetration Tester*
