@@ -16,6 +16,13 @@
 - 📖 I’m currently learning *Rust*
 <br><img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width=400 height=325>
 
+## Currently working on
+*CPTS*
+<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CPTS.gif" width=400>
+
+*CBBH*
+<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CBBH.gif" width=400>
+
 
 ## Current projects
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
