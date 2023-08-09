@@ -32,19 +32,19 @@
 
 ## Things I use on a daily basis
 <p align="center">
-    <a href="https://github.com/harish-sethuraman/readme-components">
+    <a href="https://www.docker.com/">
         <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker">
     </a>
-    <a href="https://github.com/harish-sethuraman/readme-components">
+    <a href="https://github.com/">
         <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
     </a>
-    <a href="https://github.com/harish-sethuraman/readme-components">
+    <a href="https://en.wikipedia.org/wiki/Linux/">
         <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=linux">
     </a>
-    <a href="https://github.com/harish-sethuraman/readme-components">
+    <a href="https://www.python.org/">
         <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python">
     </a>
-    <a href="https://github.com/harish-sethuraman/readme-components">
+    <a href="https://www.microsoft.com/">
         <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=windows">
     </a>
 </p>
