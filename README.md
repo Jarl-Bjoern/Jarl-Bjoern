@@ -14,7 +14,7 @@
 ## Currently working on
 <br>
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist">
-    <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CPTS.gif" width=250>
+    <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CPTS_2.gif" width=250>
 </a>
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter">
     <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CBBH.gif" width=250>
