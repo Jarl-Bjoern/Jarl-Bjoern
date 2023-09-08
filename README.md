@@ -51,7 +51,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Atlassian-logo.svg/1280px-Atlassian-logo.svg.png" width="160">
     </a>
     <a href="https://almalinux.org/">
-        <img src="https://raw.githubusercontent.com/wappalyzer/wappalyzer/master/src/drivers/webextension/images/icons/AlmaLinux.svg" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/AlmaLinux_Icon_Logo.png" width="60">
     </a>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="120">
