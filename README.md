@@ -11,11 +11,14 @@
 - 📖 I’m currently learning *Rust*
 <br><img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width=400 height=325>
 
-## Currently working on
+## Earned Certificates
 <br>
-<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist">
+<a href="https://academy.hackthebox.com/achievement/badge/d8d1835b-6935-11ee-aac4-bea50ffe6cb4">
     <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CPTS_2.gif" width=250>
 </a>
+
+## Currently working on
+<br>
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter">
     <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CBBH.gif" width=250>
 </a>
