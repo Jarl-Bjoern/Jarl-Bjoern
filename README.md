@@ -20,10 +20,18 @@
             <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CPTS_2.gif" width=250>
         </a>
     </th>
+    <th>
+        <a href="https://security.ine.com/certifications/ejpt-certification/">
+            <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/ejpt.png" width=250>
+        </a>
+    </th>
   </tr>
   <tr>
     <td>
         <p align="center">2023</p>
+    </td>
+    <td>
+        <p align="center">2022</p>
     </td>
   </tr>
 </table>
