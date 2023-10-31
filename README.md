@@ -45,7 +45,7 @@
 ## Planned certificates
 <br>
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst">
-    <img src="https://www.credly.com/org/hack-the-box/badge/hack-the-box-certified-defensive-security-analyst-h" width=250>
+    <img src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" width=250>
 </a>
 
 
