@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td>
-        2023
+        <p align="center">2023</p>
     </td>
   </tr>
 </table>
