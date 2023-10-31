@@ -9,16 +9,19 @@
 <a href="https://en.wikipedia.org/wiki/Penetration_test">
     <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=400>
 </a>
+<br>
 - 💡 I like to code with *Python*
 <br>
 <a href="https://www.python.org/">
     <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hello-world.gif" width=400>
 </a>
+<br>
 - 📖 I’m currently learning *Rust*
 <br>
 <a href="https://www.rust-lang.org/">
     <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width=400 height=325>
 </a>
+<br>
 
 ## Earned Certificates
 <br>
