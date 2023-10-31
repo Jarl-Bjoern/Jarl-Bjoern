@@ -15,13 +15,15 @@
 <br>
 <table>
   <tr>
-    <th>2023</th>
-  </tr>
-  <tr>
-    <td>
+    <th>
         <a href="https://academy.hackthebox.com/achievement/badge/d8d1835b-6935-11ee-aac4-bea50ffe6cb4">
             <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CPTS_2.gif" width=250>
         </a>
+    </th>
+  </tr>
+  <tr>
+    <td>
+        2023
     </td>
   </tr>
 </table>
