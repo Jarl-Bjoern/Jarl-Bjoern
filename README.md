@@ -11,7 +11,9 @@
 <br>
 
 - 💡 I like to code with *Python*
-<a href="https://www.python.org/"><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hello-world.gif" width=400></a>
+<a href="https://www.python.org/">
+    <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hello-world.gif" width=400>
+</a>
 <br>
 
 - 📖 I’m currently learning *Rust*
