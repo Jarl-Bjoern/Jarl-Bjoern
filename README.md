@@ -5,11 +5,20 @@
 
 ## About me
 - 💻 I'm working as a *Penetration Tester*
-<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=400>
+<br>
+<a href="https://en.wikipedia.org/wiki/Penetration_test">
+    <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=400>
+</a>
 - 💡 I like to code with *Python*
-<br><img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hello-world.gif" width=400>
+<br>
+<a href="https://www.python.org/">
+    <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hello-world.gif" width=400>
+</a>
 - 📖 I’m currently learning *Rust*
-<br><img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width=400 height=325>
+<br>
+<a href="https://www.rust-lang.org/">
+    <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width=400 height=325>
+</a>
 
 ## Earned Certificates
 <br>
