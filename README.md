@@ -48,7 +48,7 @@
     <img src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" width=250>
 </a>
 <a href="https://www.offsec.com/courses/pen-200/">
-    <img src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" width=250>
+    <img src="https://images.credly.com/images/ec81134d-e80b-4eb5-ae07-0eb8e1a60fcd/image.png" width=250>
 </a>
 <a href="https://www.offsec.com/courses/pen-210/">
     <img src="https://images.credly.com/size/680x680/images/8e66b341-8fa9-43ff-a611-76b72a65b38f/image.png" width=250>
