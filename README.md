@@ -28,10 +28,10 @@
   </tr>
   <tr>
     <td>
-        <p align="center">HTB CPTS (2023)</p>
+        <p align="center">HackTheBox Certified Penetration Testing Specialist (2023)</p>
     </td>
     <td>
-        <p align="center">eJPT (2022)</p>
+        <p align="center">eLearnSecurity Junior Penetration Tester (2022)</p>
     </td>
   </tr>
 </table>
