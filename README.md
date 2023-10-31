@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>
-        <p align="center">HackTheBox Certified Penetration Testing Specialist (2023)</p>
+        <p align="center">HTB Certified Penetration Testing Specialist (2023)</p>
     </td>
     <td>
         <p align="center">eLearnSecurity Junior Penetration Tester (2022)</p>
