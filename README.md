@@ -42,6 +42,13 @@
     <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CBBH.gif" width=250>
 </a>
 
+## Planned certificates
+<br>
+<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst">
+    <img src="https://www.credly.com/org/hack-the-box/badge/hack-the-box-certified-defensive-security-analyst-h" width=250>
+</a>
+
+
 ## Current projects
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/tyr&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/tyr)
