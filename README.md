@@ -28,10 +28,10 @@
   </tr>
   <tr>
     <td>
-        <p align="center">2023</p>
+        <p align="center">HTB CPTS (2023)</p>
     </td>
     <td>
-        <p align="center">2022</p>
+        <p align="center">eJPT (2022)</p>
     </td>
   </tr>
 </table>
