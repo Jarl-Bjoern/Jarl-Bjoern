@@ -13,12 +13,18 @@
 
 ## Earned Certificates
 <br>
-<p align="left">
-    <a href="https://academy.hackthebox.com/achievement/badge/d8d1835b-6935-11ee-aac4-bea50ffe6cb4">
-        <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CPTS_2.gif" width=250>
-    </a>
-    2023
-</p>
+<table>
+  <tr>
+    <th>2023</th>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://academy.hackthebox.com/achievement/badge/d8d1835b-6935-11ee-aac4-bea50ffe6cb4">
+            <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CPTS_2.gif" width=250>
+        </a>
+    </td>
+  </tr>
+</table>
 
 ## Currently working on
 <br>
