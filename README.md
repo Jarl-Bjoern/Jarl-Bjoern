@@ -32,7 +32,8 @@
         <p align="center">2023</p>
     </td>
     <td>
-        <p align="center">eLearnSecurity Junior Penetration Tester (2022)</p>
+        <p align="center">eLearnSecurity Junior Penetration Tester</p>
+        <p align="center">2022</p>
     </td>
   </tr>
 </table>
