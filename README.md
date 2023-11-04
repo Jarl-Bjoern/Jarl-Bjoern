@@ -22,7 +22,7 @@
 </a>
 <br>
 
-## Earned Certificates
+## Earned certificates
 <br>
 <table>
   <tr>
