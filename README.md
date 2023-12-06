@@ -51,9 +51,7 @@
 
 ## Currently working on
 <br>
-<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter">
-    <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CBBH.gif" width=250>
-</a>
+
 
 ## Planned certificates
 <br>
@@ -65,6 +63,21 @@
 </a>
 <a href="https://www.offsec.com/courses/pen-210/">
     <img src="https://images.credly.com/size/680x680/images/8e66b341-8fa9-43ff-a611-76b72a65b38f/image.png" width=250>
+</a>
+<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter">
+    <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CBBH.gif" width=250>
+</a>
+<a href="https://www.offsec.com/courses/pen-300/">
+    <img src="https://images.credly.com/images/ebefd276-7f47-4aa8-b1d8-4a13636e4851/twitter_thumb_201604_image.png" width=250>
+</a>
+<a href="https://www.offsec.com/courses/web-300/">
+    <img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" width=250>
+</a>
+<a href="https://www.offsec.com/courses/exp-301/">
+    <img src="https://images.credly.com/images/b36d1ca7-5364-4d5e-8017-64f7da2f8de0/image.png" width=250>
+</a>
+<a href="https://www.offsec.com/offsec/osce3-certification/">
+    <img src="https://images.credly.com/images/5019f325-5bb7-49bf-af83-32c04fd3735c/twitter_thumb_201604_image.png" width=250>
 </a>
 
 
