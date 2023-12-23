@@ -129,7 +129,7 @@
         <img src="https://wiki.centos.org/attachments/ArtWork(2f)Brand(2f)Logo/centos-logo-light-vertical.svg" width="60">
     </a>
     <a href="https://www.debian.org/index.html">
-        <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/debian.svg" width="60">
+        <img src="https://i0.wp.com/interpip.es/wp-content/uploads/2014/03/Debian_1024x768.jpg?resize=1024%2C576&ssl=1" width="60">
     </a>
     <a href="https://fedoraproject.org/en/">
         <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg" width="160">
