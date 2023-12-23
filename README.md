@@ -126,7 +126,7 @@
         <img src="https://ctftime.org/media/team/Cube-Icon_RGB_1024.png" width="120">
     </a>
     <a href="https://www.centos.org/">
-        <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/centos.svg" width="60">
+        <img src="https://wiki.centos.org/attachments/ArtWork(2f)Brand(2f)Logo/centos-logo-light-vertical.svg" width="60">
     </a>
     <a href="https://www.debian.org/index.html">
         <img src="https://raw.githubusercontent.com/maxogden/hexbin/gh-pages/vector/debian.svg" width="60">
