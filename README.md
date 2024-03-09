@@ -84,6 +84,9 @@
 <a href="https://www.giac.org/certifications/red-team-professional-grtp/">
     <img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blt702adb9946c63d65/65173f35964d9b6fadc30a98/GRTP.png" width=250>
 </a>
+<a href="https://www.hackthebox.com/hacker/pro-labs">
+    <img src="https://giphy.com/stickers/hackthebox-htb-prolab-hack-the-box-zGk20kp9Qe1OLQNPyw" width=250>
+</a>
 
 ## Current projects
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
