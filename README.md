@@ -81,7 +81,9 @@
 <a href="https://eu.badgr.com/public/badges/gwM0NmzISLyqmcqDScDX3w">
     <img src="https://media.eu.badgr.com/uploads/badges/810fb737-3709-422a-9544-e8329e6f9eb7.png" width=250>
 </a>
-
+<a href="https://www.giac.org/certifications/red-team-professional-grtp/">
+    <img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blt702adb9946c63d65/65173f35964d9b6fadc30a98/GRTP.png" width=250>
+</a>
 
 ## Current projects
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
