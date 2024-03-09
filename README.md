@@ -85,7 +85,7 @@
     <img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blt702adb9946c63d65/65173f35964d9b6fadc30a98/GRTP.png" width=250>
 </a>
 <a href="https://www.hackthebox.com/hacker/pro-labs">
-    <img src="https://giphy.com/stickers/hackthebox-htb-prolab-hack-the-box-zGk20kp9Qe1OLQNPyw" width=250>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRidGxsc3o3NWRxbjVueWd1MnpoaWRtYW4xcnIxNWRwZnJpajY5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zGk20kp9Qe1OLQNPyw/giphy.gif" width=250>
 </a>
 
 ## Current projects
