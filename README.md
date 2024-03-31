@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>
-        <p align="center">OffSec Experienced Penetration Tester |\n Advanced Evasion Techniques and Breaching Defenses</p>
+        <p align="center">OffSec Experienced Penetration Tester |<br> Advanced Evasion Techniques and Breaching Defenses<br /></p>
         <p align="center">2024</p>
     </td>
     <td>
