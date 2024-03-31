@@ -27,6 +27,11 @@
 <table>
   <tr>
     <th>
+        <a href="https://www.credential.net/a5df6512-9441-4e59-b467-94d8ea0c072d#gs.6oro2n">
+            <img src="https://templates.images.credential.net/16776782813666930824494918563079.png" width=250>
+        </a>
+    </th>
+    <th>
         <a href="https://academy.hackthebox.com/achievement/badge/d8d1835b-6935-11ee-aac4-bea50ffe6cb4">
             <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CPTS_2.gif" width=250>
         </a>
@@ -39,6 +44,10 @@
   </tr>
   <tr>
     <td>
+        <p align="center">OffSec Experienced Penetration Tester | Advanced Evasion Techniques and Breaching Defenses</p>
+        <p align="center">2024</p>
+    </td>
+    <td>
         <p align="center">HTB Certified Penetration Testing Specialist</p>
         <p align="center">2023</p>
     </td>
@@ -50,9 +59,6 @@
 </table>
 
 ## Currently working on
-<a href="https://www.offsec.com/courses/pen-300/">
-    <img src="https://images.credly.com/images/ebefd276-7f47-4aa8-b1d8-4a13636e4851/twitter_thumb_201604_image.png" width=250>
-</a>
 <a href="https://www.offsec.com/courses/pen-210/">
     <img src="https://images.credly.com/size/680x680/images/8e66b341-8fa9-43ff-a611-76b72a65b38f/image.png" width=250>
 </a>
