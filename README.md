@@ -28,7 +28,7 @@
   <tr>
     <th>
         <a href="https://www.credential.net/a5df6512-9441-4e59-b467-94d8ea0c072d#gs.6oro2n">
-            <img src="https://templates.images.credential.net/16776782813666930824494918563079.png" width=150>
+            <img src="https://templates.images.credential.net/16776782813666930824494918563079.png" width=185>
         </a>
     </th>
     <th>
