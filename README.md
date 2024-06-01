@@ -131,7 +131,7 @@
         <img src="https://gitlab.com/uploads/-/system/project/avatar/11903608/kali-exploitdb.png" width="60">
     </a>
     <a href="https://blackarch.org/">
-        <img src="https://i.pinimg.com/474x/3c/22/20/3c222092882bee7ef18fa5be84ef2e1b--linux-open-source.jpg" width="60">
+        <img src="https://image.pngaaa.com/500/3063500-middle.png" width="60">
     </a>
     <a href="https://www.hackthebox.com/">
         <img src="https://ctftime.org/media/team/Cube-Icon_RGB_1024.png" width="120">
