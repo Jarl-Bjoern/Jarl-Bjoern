@@ -2,6 +2,9 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Jarl-Bjoern&color=000000&style=for-the-badge">
 </p>
+<p align="left">
+  <img src="https://cdn.icon-icons.com/icons2/679/PNG/512/xing_icon-icons.com_60937.png">
+</p>
 
 ## About me
 - 💻 I'm working as a *Penetration Tester* and *Red Teamer*
