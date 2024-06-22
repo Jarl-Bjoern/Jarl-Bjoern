@@ -2,6 +2,8 @@
 <p align="left">
     <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/xing_social_media_logo-512.png" width=35>
     <img src="https://cdn.icon-icons.com/icons2/1233/PNG/512/1492718749-linkedin_83603.png" width=35>
+</p>
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=Jarl-Bjoern&color=000000&style=for-the-badge">
 </p>
 
