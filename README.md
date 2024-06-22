@@ -1,7 +1,7 @@
 ## Welcome to my profile! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Jarl-Bjoern&color=000000&style=for-the-badge">
-    <img src="https://cdn.icon-icons.com/icons2/679/PNG/512/xing_icon-icons.com_60937.png" width=20>
+    <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/xing_social_media_logo-512.png" width=20>
 </p>
 
 ## About me
