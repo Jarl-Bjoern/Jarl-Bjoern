@@ -28,8 +28,6 @@
 </a>
 <br>
 
-<script src="https://tryhackme.com/badge/2282038"></script>
-
 ## Earned certificates
 <br>
 <table>
