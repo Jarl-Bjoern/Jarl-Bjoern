@@ -28,7 +28,10 @@
 </a>
 <br>
 
-## Earned certificates
+## Certifications {.tabset .tabset-fade}
+
+### tab Earned certificates
+
 <br>
 <table>
   <tr>
@@ -64,13 +67,13 @@
   </tr>
 </table>
 
-## Currently working on
+## tab Currently working on
 <a href="https://www.offsec.com/courses/pen-210/">
     <img src="https://images.credly.com/size/680x680/images/8e66b341-8fa9-43ff-a611-76b72a65b38f/image.png" width=250>
 </a>
 <br>
 
-## Planned certificates
+## tab Planned certificates
 <br>
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst">
     <img src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" width=250>
