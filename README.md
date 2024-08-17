@@ -68,6 +68,12 @@
 <a href="https://www.offsec.com/courses/pen-210/">
     <img src="https://images.credly.com/size/680x680/images/8e66b341-8fa9-43ff-a611-76b72a65b38f/image.png" width=250>
 </a>
+<a href="https://eu.badgr.com/public/badges/gwM0NmzISLyqmcqDScDX3w">
+    <img src="https://media.eu.badgr.com/uploads/badges/ab486f4b-1ad2-44b0-a3f9-cdf504472885.png" width=250>
+</a>
+<a href="https://eu.badgr.com/public/badges/Od2nC1yPRPaDC9UCJ8W7Lg">
+    <img src="https://media.eu.badgr.com/uploads/badges/810fb737-3709-422a-9544-e8329e6f9eb7.png" width=250>
+</a>
 <br>
 
 ## Planned certificates
@@ -86,12 +92,6 @@
 </a>
 <a href="https://www.offsec.com/offsec/osce3-certification/">
     <img src="https://images.credly.com/images/5019f325-5bb7-49bf-af83-32c04fd3735c/twitter_thumb_201604_image.png" width=250>
-</a>
-<a href="https://eu.badgr.com/public/badges/gwM0NmzISLyqmcqDScDX3w">
-    <img src="https://media.eu.badgr.com/uploads/badges/ab486f4b-1ad2-44b0-a3f9-cdf504472885.png" width=250>
-</a>
-<a href="https://eu.badgr.com/public/badges/Od2nC1yPRPaDC9UCJ8W7Lg">
-    <img src="https://media.eu.badgr.com/uploads/badges/810fb737-3709-422a-9544-e8329e6f9eb7.png" width=250>
 </a>
 
 ## Current projects
