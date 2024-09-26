@@ -47,6 +47,11 @@
             <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/ejpt.png" width=250>
         </a>
     </th>
+    <th>
+        <a href="https://api.eu.badgr.io/public/assertions/bk089-bjSZGia8Et8QltSw">
+            <img src="https://media.eu.badgr.com/uploads/badges/810fb737-3709-422a-9544-e8329e6f9eb7.png" width=250>
+        </a>
+    </th>
   </tr>
   <tr>
     <td>
@@ -61,13 +66,14 @@
         <p align="center">eLearnSecurity Junior Penetration Tester</p>
         <p align="center">2022</p>
     </td>
+    <td>
+        <p align="center">Certified Red Team Operator I</p>
+        <p align="center">2024</p>
+    </td>
   </tr>
 </table>
 
 ## Currently working on
-<a href="https://eu.badgr.com/public/badges/Od2nC1yPRPaDC9UCJ8W7Lg">
-    <img src="https://media.eu.badgr.com/uploads/badges/810fb737-3709-422a-9544-e8329e6f9eb7.png" width=250>
-</a>
 <a href="https://eu.badgr.com/public/badges/gwM0NmzISLyqmcqDScDX3w">
     <img src="https://media.eu.badgr.com/uploads/badges/ab486f4b-1ad2-44b0-a3f9-cdf504472885.png" width=250>
 </a>
