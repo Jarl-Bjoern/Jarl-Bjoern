@@ -67,11 +67,23 @@
             <img src="https://media.eu.badgr.com/uploads/badges/810fb737-3709-422a-9544-e8329e6f9eb7.png" width=250>
         </a>
     </th>
+    <th>
+        <a></a>
+    </th>
+    <th>
+        <a></a>
+    </th>
   </tr>  
   <tr>
     <td>
         <p align="center">Certified Red Team Operator</p>
         <p align="center">2024</p>
+    </td>
+    <td>
+        <p align="center"></p>
+    </td>
+    <td>
+        <p align="center"></p>
     </td>
   </tr>
 </table>
