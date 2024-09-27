@@ -75,9 +75,6 @@
     </td>
   </tr>
 </table>
-<table>
-
-</table>
 
 ## Currently working on
 <a href="https://eu.badgr.com/public/badges/gwM0NmzISLyqmcqDScDX3w">
