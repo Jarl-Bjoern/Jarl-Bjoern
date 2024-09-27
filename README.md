@@ -86,6 +86,28 @@
         <p align="center">2024</p>
     </td>
   </tr>
+  <tr>
+    <th>
+        <a></a>
+    </th>
+    <th>
+        <a></a>
+    </th>
+    <th>
+        <a></a>
+    </th>
+  </tr>  
+  <tr>
+    <td>
+        <p align="center"></p>
+    </td>
+    <td>
+        <p align="center"></p>
+    </td>
+    <td>
+        <p align="center"></p>
+    </td>
+  </tr>
 </table>
 
 ## Currently working on
