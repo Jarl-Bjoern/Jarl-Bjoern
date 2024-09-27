@@ -54,11 +54,11 @@
         <p align="center">2024</p>
     </td>
     <td>
-        <p align="center">HTB Certified Penetration Testing Specialist<br /></p>
+        <p align="center">HTB Certified Penetration Testing Specialist</p>
         <p align="center">2023</p>
     </td>
     <td>
-        <p align="center">eLearnSecurity Junior Penetration Tester<br /></p>
+        <p align="center">eLearnSecurity Junior Penetration Tester</p>
         <p align="center">2022</p>
     </td>
   <tr>
