@@ -61,9 +61,6 @@
         <p align="center">eLearnSecurity Junior Penetration Tester</p>
         <p align="center">2022</p>
     </td>
-
-</table>
-<table>
   <tr>
     <th>
         <a href="https://api.eu.badgr.io/public/assertions/bk089-bjSZGia8Et8QltSw">
@@ -73,10 +70,13 @@
   </tr>  
   <tr>
     <td>
-        <p align="center">Certified Red Team Operator I</p>
+        <p align="center">Certified Red Team Operator</p>
         <p align="center">2024</p>
     </td>
   </tr>
+</table>
+<table>
+
 </table>
 
 ## Currently working on
