@@ -86,6 +86,7 @@
         <p align="center">2024</p>
     </td>
   </tr>
+<!--
   <tr>
     <th>
         <a></a>
@@ -108,6 +109,7 @@
         <p align="center"></p>
     </td>
   </tr>
+-->
 </table>
 
 ## Currently working on
