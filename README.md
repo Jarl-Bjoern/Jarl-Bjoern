@@ -149,6 +149,9 @@
 <a href="https://www.offsec.com/courses/exp-401/">
     <img src='https://appliedtechnologyacademy.com/wp-content/uploads/2024/04/osee_acclaim_badge.webp' width=250>
 </a>
+<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert">
+    <img src='https://images.credly.com/images/c2e161cc-be63-4591-9683-d4ee73edd31f/image.png' width=250>
+</a>
 
 ## Current projects
 [![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/Jarl-Bjoern/yggdrasil&mode=dark&style=horizontal)](https://github.com/Jarl-Bjoern/yggdrasil)
