@@ -143,6 +143,9 @@
 <a href="https://www.hackthebox.com/hacker/pro-labs">
     <img src="https://www.hackthebox.com/images/landingv3/rastalabs-icon.webp" width=250>
 </a>
+<a href="https://www.offsec.com/courses/exp-312/">
+    <img src='https://www.offsec.com/_astro/OSMR.B0Z34luF_18lNDk.svg' width=250>
+</a>
 <a href="https://www.offsec.com/courses/exp-401/">
     <img src='https://appliedtechnologyacademy.com/wp-content/uploads/2024/04/osee_acclaim_badge.webp' width=250>
 </a>
