@@ -141,10 +141,10 @@
     <img src="https://images.credly.com/size/680x680/images/8e66b341-8fa9-43ff-a611-76b72a65b38f/image.png" width=250>
 </a>
 <a href="https://www.hackthebox.com/hacker/pro-labs">
-    <img src="https://www.hackthebox.com/images/landingv3/rastalabs-icon.webp" width=125>
+    <img src="https://www.hackthebox.com/images/landingv3/rastalabs-icon.webp" width=250>
 </a>
 <a href="https://www.offsec.com/courses/exp-401/">
-    <img src="https://images.credly.com/images/d5a6d00a-6d9b-460d-ad6e-fdb7df8fd9fe/linkedin_thumb_image.png" width=300>
+    <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqNpBAD2bdqzkupTC6-iyGjPaWI-rY8LNiGA&s' width=250>
 </a>
 
 ## Current projects
