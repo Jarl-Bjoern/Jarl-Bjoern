@@ -54,7 +54,7 @@
         <p align="center">2024</p>
     </td>
     <td>
-        <p align="center">HTB Certified Penetration Testing Specialist</p>
+        <p align="center">HackTheBox Certified Penetration Testing Specialist</p>
         <p align="center">2023</p>
     </td>
     <td>
@@ -115,6 +115,9 @@
 </table>
 
 ## Currently working on
+<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert">
+    <img src="https://academy.hackthebox.com/storage/exam_badges/uBW2JZNwaRtkErJKdnFUW7xwU41DNPUm6hPaEtwh.png" width=250>
+</a>
 <a href="https://eu.badgr.com/public/badges/gwM0NmzISLyqmcqDScDX3w">
     <img src="https://media.eu.badgr.com/uploads/badges/ab486f4b-1ad2-44b0-a3f9-cdf504472885.png" width=250>
 </a>
