@@ -16,7 +16,7 @@
 </a>
 <br>
 
-- 💡 I like to code with *Python*
+- 💡 I like to code with *C* and *Python* 
 <a href="https://www.python.org/">
     <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hello-world.gif" width=400>
 </a>
