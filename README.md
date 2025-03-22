@@ -10,7 +10,7 @@
 </p>
 
 ## About me
-- 💻 I'm working as a *Penetration Tester* and *Red Teamer*
+- 💻 I'm working as a *Red Teamer*
 <a href="https://www.rapid7.com/blog/post/2016/06/23/penetration-testing-vs-red-teaming-the-age-old-debate-of-pirates-vs-ninja-continues/">
     <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/hacker-python.gif" width=400>
 </a>
