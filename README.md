@@ -66,7 +66,9 @@
         <a></a>
     </th>
     <th>
-        <a></a>
+        <a href="https://api.eu.badgr.io/public/assertions/obPZy3WhQhef-p9voaHjlQ">
+            <img src="https://media.eu.badgr.com/uploads/badges/ab486f4b-1ad2-44b0-a3f9-cdf504472885.png" width=250>
+        </a>
     </th>
     <th>
         <a href="https://api.eu.badgr.io/public/assertions/bk089-bjSZGia8Et8QltSw">
@@ -80,7 +82,7 @@
         <p align="center">2025</p>
     </td>
     <td>
-        <p align="center">???</p>
+        <p align="center">Certified Red Team Lead</p>
         <p align="center">2025</p>
     </td>
     <td>
@@ -118,9 +120,7 @@
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert">
     <img src="https://images.credly.com/images/2af3dcdf-613a-45d9-9de9-6713ff63ec05/blob" width=250>
 </a>
-<a href="https://eu.badgr.com/public/badges/gwM0NmzISLyqmcqDScDX3w">
-    <img src="https://media.eu.badgr.com/uploads/badges/ab486f4b-1ad2-44b0-a3f9-cdf504472885.png" width=250>
-</a>
+
 <br>
 
 ## Planned certificates
