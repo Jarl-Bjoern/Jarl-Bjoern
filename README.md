@@ -67,7 +67,7 @@
     </th>
     <th>
         <a href="https://api.eu.badgr.io/public/assertions/obPZy3WhQhef-p9voaHjlQ">
-            <img src="https://media.eu.badgr.com/uploads/badges/ab486f4b-1ad2-44b0-a3f9-cdf504472885.png" width=210>
+            <img src="https://media.eu.badgr.com/uploads/badges/ab486f4b-1ad2-44b0-a3f9-cdf504472885.png" width=200>
         </a>
     </th>
     <th>
