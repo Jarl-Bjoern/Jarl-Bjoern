@@ -120,6 +120,9 @@
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert">
     <img src="https://images.credly.com/images/2af3dcdf-613a-45d9-9de9-6713ff63ec05/blob" width=250>
 </a>
+<a href="https://www.offsec.com/courses/exp-301/">
+    <img src="https://images.credly.com/images/b36d1ca7-5364-4d5e-8017-64f7da2f8de0/image.png" width=250>
+</a>
 
 <br>
 
@@ -134,9 +137,6 @@
 <a href="https://www.offsec.com/courses/web-300/">
     <img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" width=250>
 </a>
-<a href="https://www.offsec.com/courses/exp-301/">
-    <img src="https://images.credly.com/images/b36d1ca7-5364-4d5e-8017-64f7da2f8de0/image.png" width=250>
-</a>
 <a href="https://www.offsec.com/offsec/osce3-certification/">
     <img src="https://images.credly.com/images/5019f325-5bb7-49bf-af83-32c04fd3735c/twitter_thumb_201604_image.png" width=250>
 </a>
@@ -147,7 +147,7 @@
     <img src="https://www.hackthebox.com/images/landingv3/rastalabs-icon.webp" width=250>
 </a>
 <a href="https://www.offsec.com/courses/exp-312/">
-    <img src='https://www.offsec.com/_astro/OSMR.B0Z34luF_Z12DWgl.svg' width=250>
+    <img src='https://miro.medium.com/v2/resize:fit:400/1*7_v9PUqUPk4VtUkoTg5Omw.png' width=250>
 </a>
 <a href="https://www.offsec.com/courses/exp-401/">
     <img src='https://appliedtechnologyacademy.com/wp-content/uploads/2024/04/osee_acclaim_badge.webp' width=250>
