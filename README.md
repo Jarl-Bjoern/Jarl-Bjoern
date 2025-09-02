@@ -143,8 +143,8 @@
 <a href="https://www.offsec.com/courses/pen-210/">
     <img src="https://images.credly.com/size/680x680/images/8e66b341-8fa9-43ff-a611-76b72a65b38f/image.png" width=250>
 </a>
-<a href="https://www.hackthebox.com/hacker/pro-labs">
-    <img src="https://www.hackthebox.com/images/landingv3/rastalabs-icon.webp" width=250>
+<a href="https://training.whiteknightlabs.com/live-training/offensive-development-practitioner-certification/">
+    <img src="https://training.whiteknightlabs.com/wp-content/uploads/2024/10/ODPC-1.svg" width=250>
 </a>
 <a href="https://www.offsec.com/courses/exp-312/">
     <img src='https://miro.medium.com/v2/resize:fit:400/1*7_v9PUqUPk4VtUkoTg5Omw.png' width=250>
