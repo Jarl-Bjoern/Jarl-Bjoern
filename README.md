@@ -63,7 +63,7 @@
     </td>
   <tr>
     <th>
-        <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert">
+        <a href="https://academy.hackthebox.com/achievement/badge/0f0690c1-cf02-11f0-9254-bea50ffe6cb4">
             <img src="https://images.credly.com/images/2af3dcdf-613a-45d9-9de9-6713ff63ec05/blob" width=250>
         </a>
     </th>
