@@ -63,7 +63,9 @@
     </td>
   <tr>
     <th>
-        <a></a>
+        <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert">
+            <img src="https://images.credly.com/images/2af3dcdf-613a-45d9-9de9-6713ff63ec05/blob" width=250>
+        </a>
     </th>
     <th>
         <a href="https://api.eu.badgr.io/public/assertions/obPZy3WhQhef-p9voaHjlQ">
@@ -78,7 +80,7 @@
   </tr>  
   <tr>
     <td>
-        <p align="center">???</p>
+        <p align="center">HackTheBox Certified Active Directory Pentesting Expert</p>
         <p align="center">2025</p>
     </td>
     <td>
@@ -117,9 +119,6 @@
 </table>
 
 ## Currently working on
-<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert">
-    <img src="https://images.credly.com/images/2af3dcdf-613a-45d9-9de9-6713ff63ec05/blob" width=250>
-</a>
 <a href="https://www.offsec.com/courses/exp-301/">
     <img src="https://images.credly.com/images/b36d1ca7-5364-4d5e-8017-64f7da2f8de0/image.png" width=250>
 </a>
