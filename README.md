@@ -130,9 +130,6 @@
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst">
     <img src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" width=250>
 </a>
-<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter">
-    <img src="https://github.com/Jarl-Bjoern/Jarl-Bjoern/blob/main/Gif/CBBH.gif" width=250>
-</a>
 <a href="https://www.offsec.com/courses/web-300/">
     <img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" width=250>
 </a>
@@ -150,9 +147,6 @@
 </a>
 <a href="https://www.offsec.com/courses/exp-401/">
     <img src='https://appliedtechnologyacademy.com/wp-content/uploads/2024/04/osee_acclaim_badge.webp' width=250>
-</a>
-<a href="https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert">
-    <img src='https://images.credly.com/images/c2e161cc-be63-4591-9683-d4ee73edd31f/image.png' width=250>
 </a>
 <a href="https://www.alteredsecurity.com/evasionlab">
     <img src="https://static.wixstatic.com/media/98ad8e_1968bb0c2f18408c892875c693e9990c~mv2.png/v1/fill/w_159,h_183,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/BADGE%20FINAL-.png" width=250>
