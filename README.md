@@ -119,14 +119,14 @@
 </table>
 
 ## Currently working on
-<a href="https://www.offsec.com/courses/exp-301/">
-    <img src="https://images.credly.com/images/b36d1ca7-5364-4d5e-8017-64f7da2f8de0/image.png" width=250>
-</a>
 
 <br>
 
 ## Planned certificates
 <br>
+<a href="https://www.offsec.com/courses/exp-301/">
+    <img src="https://images.credly.com/images/b36d1ca7-5364-4d5e-8017-64f7da2f8de0/image.png" width=250>
+</a>
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst">
     <img src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" width=250>
 </a>
