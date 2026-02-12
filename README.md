@@ -247,7 +247,7 @@
         <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="60">
     </a>
     <a href="https://rockylinux.org/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Rocky_Linux_logo.svg" width="160">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Rocky_Linux_logo.svg" width="60">
     </a>
     <a href="https://en.wikipedia.org/wiki/Secure_Shell">
         <img src="https://cdn-icons-png.flaticon.com/512/5261/5261911.png" width="60">
