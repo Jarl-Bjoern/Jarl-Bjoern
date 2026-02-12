@@ -278,10 +278,10 @@
     </a>
 </p>
 
-## Statistics
+<!--## Statistics
 [![Jarl-Bjoern's stats](https://github-readme-stats.vercel.app/api?username=Jarl-Bjoern&hide=issues&show_icons=true&theme=dark&bg_color=0A0A0A)](https://github.com/Jarl-Bjoern?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarl-Bjoern&layout=compact&theme=dark&bg_color=0A0A0A)](https://github.com/Jarl-Bjoern?tab=repositories)
-
+-->
 <!--
 
 Here are some ideas to get you started:
