@@ -193,7 +193,7 @@
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" width="120">
     </a>
     <a href="https://www.microsoft.com/en/microsoft-365/excel">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/960px-Microsoft_Excel_2013-2019_logo.svg.png" width="60">
     </a>
     <a href="https://www.exploit-db.com/">
         <img src="https://gitlab.com/uploads/-/system/project/avatar/11903608/kali-exploitdb.png" width="60">
@@ -214,7 +214,7 @@
         <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg" width="160">
     </a>
     <a href="https://www.greenbone.net/">
-        <img src="https://greenbone.github.io/docs/latest/_static/logo.svg" width="60">
+        <img src="https://forum.greenbone.net/uploads/default/original/1X/4fded94e412567114894f39e5f83433d511ac6dc.png" width="60">
     </a>
     <a href="https://www.kali.org/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" width="80">
@@ -229,13 +229,13 @@
         <img src="https://upload.wikimedia.org/wikipedia/de/thumb/1/1f/Logo_MySQL.svg/1280px-Logo_MySQL.svg.png" width="80">
     </a>
     <a href="https://www.tenable.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Nessus-Professional-FullColor-RGB.svg/768px-Nessus-Professional-FullColor-RGB.svg.png" width="160">
+        <img src="https://www.cisco.com/content/dam/cisco-cdc/site/images/legacy/assets/swa/img/anchor-info/tenable-628x353.png" width="160">
     </a>
     <a href="https://nmap.org/">
         <img src="https://nmap.org/images/nmap-logo-256x256.png" width="60">
     </a>
     <a href="https://www.parrotsec.org/">
-        <img src="https://jessehirsh.com/content/images/size/w960/2020/08/Parrot_Logo.png" width="60">
+        <img src="https://www.linux-shop.info/media/image/30/41/92/Parrot_Logo_600x600.png" width="60">
     </a>
     <a href="https://www.proxmox.com/en">
         <img src="https://upload.wikimedia.org/wikipedia/en/2/25/Proxmox-VE-logo.svg" width="160">
@@ -247,7 +247,7 @@
         <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" width="60">
     </a>
     <a href="https://rockylinux.org/">
-        <img src="https://vectorwiki.com/images/6V0CU__rocky-linux-wordmark.svg" width="160">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Rocky_Linux_logo.svg" width="160">
     </a>
     <a href="https://en.wikipedia.org/wiki/Secure_Shell">
         <img src="https://cdn-icons-png.flaticon.com/512/5261/5261911.png" width="60">
@@ -265,7 +265,7 @@
         <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="60">
     </a>
     <a href="https://visualstudio.microsoft.com/de/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" width="60">
+        <img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-Logo-2019.png" width="60">
     </a>
     <a href="https://code.visualstudio.com/">
         <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" width="60">
@@ -274,7 +274,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/VMware_logo.svg" width="150">
     </a>
     <a href="https://www.microsoft.com/en/microsoft-365/word?activetab=tabs%3Afaqheaderregion3&market=af">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" width="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Microsoft_Office_Word_%282019%E2%80%932025%29.svg/960px-Microsoft_Office_Word_%282019%E2%80%932025%29.svg.png" width="60">
     </a>
 </p>
 
