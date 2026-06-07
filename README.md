@@ -124,6 +124,13 @@
 
 ## Planned certificates
 <br>
+<a href="https://training.whiteknightlabs.com/ascpc-certification">
+    <img src="https://training.whiteknightlabs.com/wp-content/uploads/2026/01/ASCPC-3.png.webp" width=250>
+</a>
+<a href="https://training.whiteknightlabs.com/certifications/advanced-red-team-operations-certification/">
+    <img src="https://training.whiteknightlabs.com/wp-content/uploads/2024/10/ARTOC-1.svg" width=250>
+</a>
+
 <a href="https://lms.zsec.red/?ref=blog.zsec.uk">
     <img src="https://blog.zsec.uk/content/images/size/w1000/format/webp/2026/02/CertificateLogo_new.png" width=250>
 </a>
