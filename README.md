@@ -119,7 +119,9 @@
 </table>
 
 ## Currently working on
-
+<a href="https://hacktricks-training.com/courses/azrte/">
+    <img src="https://hacktricks-training.com/_next/image/?url=%2Fimages%2Fcans%2FAZRTE_CAN.png&w=750&q=75" width=250>
+</a>
 <br>
 
 ## Planned certificates
@@ -133,9 +135,6 @@
 
 <a href="https://lms.zsec.red/?ref=blog.zsec.uk">
     <img src="https://blog.zsec.uk/content/images/size/w1000/format/webp/2026/02/CertificateLogo_new.png" width=250>
-</a>
-<a href="https://hacktricks-training.com/courses/azrte/">
-    <img src="https://hacktricks-training.com/_next/image/?url=%2Fimages%2Fcans%2FAZRTE_CAN.png&w=750&q=75" width=250>
 </a>
 <a href="https://www.alteredsecurity.com/gcb">
     <img src="https://static.wixstatic.com/media/470c31_ba28f3e73da843c2b0664dd02b61f9b9~mv2.png/v1/fill/w_524,h_524,al_c,lg_1,q_85,enc_avif,quality_auto/crtm.png" width=250>
