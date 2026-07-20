@@ -145,7 +145,7 @@
     <img src="https://images.credly.com/images/b36d1ca7-5364-4d5e-8017-64f7da2f8de0/image.png" width=250>
 </a>
 <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst">
-    <img src="https://academy.hackthebox.com/storage/exam_badges/Ub2I1qAN1BOVsK2de0ujslt4oGjhceaZeWRRicge.png" width=250>
+    <img src="https://cdn.services-k8s.prod.aws.htb.systems/content/exams/badge/fac60d94-14f2-4d26-976b-9d6c5c9996e9.png" width=250>
 </a>
 <a href="https://www.offsec.com/courses/web-300/">
     <img src="https://images.credly.com/images/0a375324-4f9e-412d-b276-b6e96c428709/image.png" width=250>
