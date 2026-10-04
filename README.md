@@ -165,7 +165,7 @@
     <img src='https://miro.medium.com/v2/resize:fit:400/1*7_v9PUqUPk4VtUkoTg5Omw.png' width=250>
 </a>
 <a href="https://www.offsec.com/courses/exp-401/">
-    <img src='https://appliedtechnologyacademy.com/wp-content/uploads/2024/04/osee_acclaim_badge.webp' width=250>
+    <img src='https://www.offsec.com/_astro/03b245bb89e60e519edf0ff875725212b652eb14-300x300_Z6VRxG.webp' width=250>
 </a>
 <a href="https://www.alteredsecurity.com/evasionlab">
     <img src="https://static.wixstatic.com/media/98ad8e_1968bb0c2f18408c892875c693e9990c~mv2.png/v1/fill/w_159,h_183,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/BADGE%20FINAL-.png" width=250>
